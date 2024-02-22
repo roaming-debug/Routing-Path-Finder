@@ -1,4 +1,4 @@
-# Link State Routing
+# Routing Path Finder (Link State Routing)
 
 ## Introduction
 
